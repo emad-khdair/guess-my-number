@@ -21,7 +21,3 @@ A simple number guessing game built with HTML, CSS, and JavaScript.
 - HTML5
 - CSS3
 - JavaScript
-
-## Preview
-
-![Preview Image of the Game](insert-image-link-here)
