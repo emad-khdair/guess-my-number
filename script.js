@@ -1,18 +1,5 @@
 'use strict';
 
-/*
-1. Generate a random number between 1 and 20.
-2. Handle button clicks:
-    1. Check if the user entered a guess. If not, display the message 'No Number'!
-    2. If the guess is correct, display the message 'Correct guess'!
-    3. If the guess is incorrect, display if it is too high or too low and decrease the score.
-    4. If the score exceeds the high score, update the high score.
-3. Handle the "Again" button click:
-    1. Reset the current score.
-    2. Keep the highest score.
-    3. Generate a new random number.
-*/
-
 // Generate a random number between 1 and 20
 let secretNumber = Math.floor(Math.random() * 20 + 1);
 
