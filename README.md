@@ -1,30 +1,26 @@
-# Guess My Number
+# 🎯 Guess My Number
 
-This project is a part of The Compelete JavaScript Course by Jonas Schmedtmann
+A simple number guessing game built with HTML, CSS, and JavaScript.
 
-## Live Demo
+## 🚀 Live Demo
 
-[Insert link to live demo here]
+[Play the Game](https://emad-khdair.github.io/guess-my-number/)
 
-## About
+## 🎮 How to Play
 
-The "Guess My Number" game is a fun and interactive JavaScript game where the player must guess a randomly generated number between 1 and 20. The game provides feedback after each guess, indicating if the guess was too high, too low, or correct. The score decreases with each wrong guess, and the game ends if the score drops below 1. The game also features a "high score" that is updated whenever the player achieves a higher score than previous attempts.
+- Guess a number between 1 and 20.
+- After each guess, you'll receive feedback:
+  - Too high
+  - Too low
+  - Correct!
+- You start with a score of 20, which decreases by 1 with each incorrect guess.
+- Try to achieve the highest score possible!
 
-### Game Rules:
+## 🛠️ Technologies Used
 
-- The player starts with a score of 20.
-- Each guess will either be:
-  - Correct: You win the game!
-  - Too high or too low: The score decreases with each wrong guess.
-- The game ends when the score reaches 0 or below.
-- The high score will be updated if you achieve a higher score than before.
-- You can click the "Again" button to start a new round with a fresh score.
-
-## Built With
-
-- **HTML**
-- **CSS**
-- **JavaScript**
+- HTML5
+- CSS3
+- JavaScript
 
 ## Preview
 
